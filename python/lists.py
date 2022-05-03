@@ -16,4 +16,8 @@ if __name__ == '__main__':
         elif cmd[0] == "sort":
             L.sort();
         else:
+<<<<<<< HEAD
             L.reverse();
+=======
+            L.reverse();
+>>>>>>> 5fe817fc4209ac81491aedc3259bb0e54bc422eb
