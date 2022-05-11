@@ -13,7 +13,9 @@ In the fourth line, print True if S has any lowercase characters. Otherwise, pri
 In the fifth line, print True if S has any uppercase characters. Otherwise, print 
 
 
- print(any(map(str.isalnum, s)))
+if __name__ == '__main__':
+    s = raw_input()
+    print(any(map(str.isalnum, s)))
     print(any(map(str.isalpha, s)))
     print(any(map(str.isdigit, s)))
     print(any(map(str.islower, s)))
