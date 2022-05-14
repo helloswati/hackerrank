@@ -1,3 +1,8 @@
+You are given an integer, N. Your task is to print an alphabet rangoli of size N. (Rangoli is a form of Indian folk art based on creation of patterns.)
+Different sizes of alphabet rangoli are shown below:
+The center of the rangoli has the first alphabet letter a, and the boundary has the Nth alphabet letter (in alphabetical order).
+
+
 def print_rangoli(size):
     # your code goes here
     import string
