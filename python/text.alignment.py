@@ -1,8 +1,14 @@
 ## In Python, a string of text can be aligned left, right and center.
+
 ## .ljust(width)
+
 ## This method returns a left aligned string of length width.
+
 ##You are given a partial code that is used for generating the HackerRank Logo of variable thickness.
 ##Your task is to replace the blank (______) with rjust, ljust or center.
+
+
+
 #Replace all ______ with rjust, ljust or center. 
 
 thickness = int(input()) #This must be an odd number
