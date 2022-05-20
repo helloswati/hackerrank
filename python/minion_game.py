@@ -7,6 +7,7 @@ Kevin has to make words starting with vowels.
 The game ends when both players have made all possible substrings. 
 
 
+Solution :
 def minion_game(string):
     # your code goes here
     vowel = 'aeiou'.upper()
