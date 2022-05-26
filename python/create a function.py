@@ -7,3 +7,9 @@ Answers : 3. y = 0
              while x > 10 :
              y = y * 10 + x % 10
              x = x // 10
+
+Answer : 2. def reverse (x):
+            y = 0
+            while x % 10 + x % 10
+            x < x // 10
+            return y
