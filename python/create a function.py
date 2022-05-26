@@ -13,3 +13,6 @@ Answer : 2. def reverse (x):
             while x % 10 + x % 10
             x < x // 10
             return y
+
+Answer : 1. sum_result = d.sum(2, 3)
+            print(sum_result)
