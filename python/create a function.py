@@ -14,3 +14,5 @@ Answer : 3. def reverse (x):
             x < x // 10
             return y 
           
+Answer : 2. sum_result = d.sum(2, 3)
+            print(sum_result)
