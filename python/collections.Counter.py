@@ -1,3 +1,11 @@
+A counter is a container that stores elements as dictionary keys, and their counts are stored as dictionary values.
+Raghu is a shoe shop owner. His shop has X number of shoes.
+He has a list containing the size of each shoe he has in his shop.
+There are N number of customers who are willing to pay Xi amount of money only if they get the shoe of their desired size.
+Your task is to compute how much money Raghu earned.
+
+
+
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 from collections import Counter
 numShoes = int(input())
