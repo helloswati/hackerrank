@@ -18,3 +18,4 @@ for i in range(numCust):
         income += price
         shoes[size] -= 1
 print(income)
+
