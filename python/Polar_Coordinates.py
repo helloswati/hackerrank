@@ -1,5 +1,5 @@
 Polar coordinates are an alternative way of representing Cartesian coordinates or Complex Numbers.
-A complex number[Capture.PNG] 
+A complex number z [Capture.PNG] 
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 import cmath
