@@ -2,6 +2,5 @@ Query a list of CITY names from STATION with even ID numbers only. You may print
 where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 
-
-
+Solution:
  SELECT DISTINCT CITY FROM STATION WHERE MOD(ID, 2) = 0;
