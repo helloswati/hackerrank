@@ -28,3 +28,5 @@ dir_list = os.listdir('/home/swati/Documents/demo')
 print(dir_list)
 Output: main.txt
   
+
+  
