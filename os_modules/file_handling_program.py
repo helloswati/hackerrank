@@ -13,3 +13,7 @@ import os
 # Create the directory
 #'/home / User / Documents'
 os.mkdir('/home/swati/Documents/demo')
+
+3- Create a file in the demo folder
+Solution:
+os.makedirs('/home/swati/Documents/demo/main.txt')
