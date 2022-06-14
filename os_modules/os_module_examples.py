@@ -17,6 +17,5 @@ os.chdir('../')
 # Printing CWD after
 print ("Current Working Directory is ", os.getcwd())
 
-directory = "GeeksforGeeks"
 
 
