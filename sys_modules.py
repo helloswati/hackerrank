@@ -1,10 +1,11 @@
 # The sys module in Python provides various functions and variables that are used to 
 # to manipulate different parts of the Python runtime environment
-
+1-
 import sys
   
 print(sys.version)
 
+2-
 # stdin
 
 import sys
@@ -15,13 +16,13 @@ for line in sys.stdin:
 
 print("Exit")
 
-
+3-
 # stdout
 
 import sys
 sys.stdout.write('Geeks')
 
-
+4-
 # stderr
 
 import sys
@@ -34,6 +35,7 @@ def print_to_stderr(*a):
 
 print_to_stderr("Hello World")
 
+5-
 ## Command Line Arguments
 # It is a list of command-line arguments.
 # len(sys.argv) provides the number of command-line arguments.
@@ -64,7 +66,7 @@ for i in range(1, n):
 	
 print("\n\nResult:", Sum)
 
-
+7-
 # Exiting the Program
 ## sys.exit([arg])
 
@@ -83,7 +85,7 @@ else:
 	print("Age is not less than 18")
 
 
-
+8-
 # Working with Modules
 ## sys.path is an ordinary list and can be manipulated.
 
@@ -101,13 +103,14 @@ sys.path = []
 # values
 import pandas
 
-
+9-
 # sys.modules return the name of the Python modules that the current shell has imported.
 
 import sys
 
 print(sys.modules)
 
+10-
 # Reference Count
 ## sys.getrefcount() 
 
