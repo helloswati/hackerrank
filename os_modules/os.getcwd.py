@@ -9,3 +9,6 @@ cwd = os.getcwd()
 # Print the current working
 # directory (CWD)
 print("Current working directory:", cwd)
+
+Output: Current working directory: /home/swati/Documents
+
