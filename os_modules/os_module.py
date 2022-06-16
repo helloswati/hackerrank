@@ -47,3 +47,4 @@ os.mkdir('/home/swati/Documents',"Geeks")  # (path,dir.name)
 4-
 os.listdir('/home/swati/Documents') # (path)
 
+
