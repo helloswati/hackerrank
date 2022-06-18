@@ -64,8 +64,6 @@ output : posix
 8-
 ## os.error
 import os
-
-
 try:
 	# If the file does not exist,
 	# then it would throw an IOError
