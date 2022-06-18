@@ -40,10 +40,21 @@ current_path()
    os.makedirs
 
 import os 
-os.mkdir('/home/swati/Documents',"Geeks")  # (path,dir.name)
+listdie# (path,dir.name)
 
 
 ## Listing out Files and Directories with Python
 4-
 os.listdir('/home/swati/Documents') # (path)
+
+5-
+## Deleting Directory or Files using Python
+os.remove('/home/swati/Documents') (path)
+
+6- 
+## os.rmdir() method in Python is used to remove or delete an empty directory
+os.rmdir(path)
+
+
+
 
