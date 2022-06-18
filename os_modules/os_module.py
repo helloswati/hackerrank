@@ -55,6 +55,8 @@ os.remove('/home/swati/Documents') (path)
 ## os.rmdir() method in Python is used to remove or delete an empty directory
 os.rmdir(path)
 
+7-
+
 
 
 
