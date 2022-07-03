@@ -24,4 +24,18 @@ linux command :
 
 12. tac - It is opposite of cat. It displays from last part of the file.
 
-13. 
+13. echo - echo command in linux is used to display line of text/string that are passed as an argument .("Hello World")
+
+14. echo -e = -e here enables the interpretation of backslash escapes .
+
+15. echo -e =  \b : it removes all the spaces in between the text echo (-e"Geeks \bfor \bGeeks")
+
+16. echo -e = \n : this option creates new line from where it is used. (echo -e "Geeks \nfor \nGeeks")
+
+17. echo -e =  \t : this option is used to create horizontal tab spaces.(echo -e "Geeks \tfor \tGeeks") output: Geeks  for  Geeks
+
+18. echo -e =  \v : this option is used to create vertical tab spaces. (echo -e "Geeks \vfor \vGeeks) 
+
+19. echo * - this command will print all files/folders, similar to ls command 
+
+20. env - it shows the environment 
