@@ -39,3 +39,13 @@ linux command :
 19. echo * - this command will print all files/folders, similar to ls command 
 
 20. env - it shows the environment 
+
+21. env | grep -i name - it show where the particular file name is mentioned 
+
+22. df -hT - The df command is known as the “disk free” command gives the estimation of the total amount of the disk memory space used by the input files and stored files in memory directories.
+
+23. df -hT / 
+
+24. uname -a - it will shows the os name and user name
+
+25. uname -s - it will show os name 
