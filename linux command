@@ -49,3 +49,21 @@ linux command :
 24. uname -a - it will shows the os name and user name
 
 25. uname -s - it will show os name 
+
+26. du -sh * - it will show size of the files in kb.
+
+27. du -sh - it will show the size of the folder.
+
+28. free -h - it show the usage of files .
+
+29. free -m - it show the usage of files in mb
+
+30. free -g- it show the usage of files in gigabytes.
+
+31. stat filename - it show files detailing when its created or updated.
+
+32. users - it will show how many users are currently active.
+
+33. w - it show the work load on system and show which user is active & what its performing (load average: 1 mins, 5 mins, 15 mins).
+
+34. uptime - it show the work load on system (load average: 1 mins, 5 mins, 15 mins).
