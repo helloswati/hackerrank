@@ -89,7 +89,7 @@ if __name__ == "__main__":
 # run app 
 # set environment
 
-export FLASK_APP=hello
+export FLASK_APP=hello (# file name)
 
 export FLASK_ENV=development
 
