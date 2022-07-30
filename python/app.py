@@ -86,4 +86,15 @@ if __name__ == "__main__":
     
     
     
+# run app 
+# set environment
+
+export FLASK_APP=hello
+
+export FLASK_ENV=development
+
+flask run
+    
+    
+    
     
